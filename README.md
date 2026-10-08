@@ -4,7 +4,7 @@ This repository contains a small Python web application used to practice Git, Gi
 
 ## Application
 
-The application listens on port 8000 and returns a plain-text health status message.
+The application listens on port 8000 inside the container (published on host port 8080) and returns a plain-text health status message.
 
 ## Verification
 
